@@ -1,0 +1,51 @@
+﻿order_id,order_date,customer_id,product_id,product_category,product_name,quantity,unit_price,region,sales_channel
+101,05-01-2023,C001,P001,Electronics,Headphones,2,1500,North,Online
+102,06-01-2023,C002,P002,Electronics,Keyboard,1,2500,South,Offline
+103,10-01-2023,C003,P003,Accessories,Mouse,3,800,East,Online
+104,02-02-2023,C001,P001,Electronics,Headphones,1,1500,North,Online
+105,14-02-2023,C004,P004,Furniture,Office Chair,1,7000,West,Offline
+106,01-03-2023,C005,P002,Electronics,Keyboard,2,2500,South,Online
+107,05-03-2023,C006,P005,Accessories,USB Cable,5,300,East,Online
+108,18-03-2023,C002,P003,Accessories,Mouse,2,800,South,Offline
+109,02-04-2023,C007,P006,Electronics,Monitor,1,12000,North,Online
+110,10-04-2023,C008,P004,Furniture,Office Chair,1,7000,West,Online
+111,15-04-2023,C001,P003,Accessories,Mouse,2,800,North,Online
+112,18-04-2023,C003,P005,Accessories,USB Cable,4,300,East,Online
+113,22-04-2023,C009,P002,Electronics,Keyboard,1,2500,South,Offline
+114,01-05-2023,C010,P001,Electronics,Headphones,3,1500,West,Online
+115,04-05-2023,C002,P006,Electronics,Monitor,1,12000,South,Offline
+116,10-05-2023,C004,P004,Furniture,Office Chair,2,7000,West,Offline
+117,18-05-2023,C006,P005,Accessories,USB Cable,6,300,East,Online
+118,22-05-2023,C007,P003,Accessories,Mouse,1,800,North,Online
+119,02-06-2023,C008,P002,Electronics,Keyboard,2,2500,West,Online
+120,05-06-2023,C009,P001,Electronics,Headphones,1,1500,South,Online
+121,10-06-2023,C010,P006,Electronics,Monitor,1,12000,North,Online
+122,14-06-2023,C001,P004,Furniture,Office Chair,1,7000,North,Offline
+123,18-06-2023,C003,P002,Electronics,Keyboard,2,2500,East,Online
+124,22-06-2023,C005,P003,Accessories,Mouse,3,800,South,Online
+125,01-07-2023,C006,P005,Accessories,USB Cable,5,300,East,Online
+126,05-07-2023,C007,P001,Electronics,Headphones,2,1500,North,Online
+127,10-07-2023,C008,P006,Electronics,Monitor,1,12000,West,Online
+128,14-07-2023,C009,P004,Furniture,Office Chair,1,7000,South,Offline
+129,18-07-2023,C010,P002,Electronics,Keyboard,1,2500,West,Online
+130,22-07-2023,C001,P003,Accessories,Mouse,2,800,North,Online
+131,02-08-2023,C002,P001,Electronics,Headphones,1,1500,South,Offline
+132,05-08-2023,C003,P005,Accessories,USB Cable,6,300,East,Online
+133,10-08-2023,C004,P006,Electronics,Monitor,1,12000,West,Offline
+134,14-08-2023,C005,P002,Electronics,Keyboard,2,2500,South,Online
+135,18-08-2023,C006,P003,Accessories,Mouse,3,800,East,Online
+136,01-09-2023,C007,P004,Furniture,Office Chair,1,7000,North,Online
+137,05-09-2023,C008,P001,Electronics,Headphones,2,1500,West,Online
+138,10-09-2023,C009,P002,Electronics,Keyboard,1,2500,South,Offline
+139,14-09-2023,C010,P006,Electronics,Monitor,1,12000,North,Online
+140,18-09-2023,C001,P005,Accessories,USB Cable,4,300,East,Online
+141,02-10-2023,C002,P003,Accessories,Mouse,2,800,South,Offline
+142,05-10-2023,C003,P001,Electronics,Headphones,1,1500,East,Online
+143,10-10-2023,C004,P004,Furniture,Office Chair,2,7000,West,Offline
+144,14-10-2023,C005,P002,Electronics,Keyboard,1,2500,South,Online
+145,18-10-2023,C006,P006,Electronics,Monitor,1,12000,East,Online
+146,02-11-2023,C007,P003,Accessories,Mouse,3,800,North,Online
+147,05-11-2023,C008,P005,Accessories,USB Cable,6,300,West,Online
+148,10-11-2023,C009,P001,Electronics,Headphones,2,1500,South,Online
+149,14-11-2023,C010,P002,Electronics,Keyboard,2,2500,West,Online
+150,01-12-2023,C001,P006,Electronics,Monitor,1,12000,North,Online
